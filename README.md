@@ -8,7 +8,7 @@ Freelance fullstack developer specializing in PHP and JavaScript with ~20 years 
 
 **[ObjectQuel](https://github.com/quellabs/objectquel)** - A readable ORM alternative using entity-based queries inspired by QUEL. Built on the Data Mapper pattern for clean separation of concerns.
 
-**[WakaPAC](https://github.com/quellabs/wakapac)** - A JavaScript framework focused on simplicity and developer experience, stripping away unnecessary complexity.
+**[WakaPAC](https://github.com/quellabs/wakapac)** - A JavaScript reactivity library focused on simplicity and developer experience.
 
 **[Discover](https://github.com/quellabs/discover)** - Automatic service provider discovery and organization across PHP applications and dependencies.
 
