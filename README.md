@@ -20,7 +20,7 @@ I build for maintainability and clarity. Most frameworks add layers of abstracti
 
 - **Readable** - Code should explain itself
 - **Practical** - Solving real problems over theoretical elegance  
-- **Minimal** - Less magic, more transparency
+- **Rejection of magic** - Everything is traceable
 - **Legacy-friendly** - Modernization shouldn't require scorched earth
 
 ## Tech Stack
