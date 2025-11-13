@@ -12,6 +12,8 @@ Freelance fullstack developer specializing in PHP and JavaScript with ~20 years 
 
 **[Discover](https://github.com/quellabs/discover)** - Automatic service provider discovery and organization across PHP applications and dependencies.
 
+**[Sculpt](https://github.com/quellabs/sculpt)** - A command line toolkit that is used across the entire ecosystem
+
 ## Approach
 
 I build for maintainability and clarity. Most frameworks add layers of abstraction that obscure what's actually happening. My tools aim to be:
