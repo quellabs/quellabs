@@ -1,40 +1,41 @@
 # Hi, I'm Floris
 
-Freelance fullstack developer specializing in PHP and JavaScript with ~20 years of experience. I build tools that make legacy codebases maintainable and modern development simpler.
+I'm a freelance developer working as **Quellabs**, specializing in PHP and JavaScript. I've spent nearly 20 years modernizing legacy systems and building tools that bring structure to unstructured codebases.
 
-## What I'm Building
+**Available for contract work** — particularly projects where the "just rewrite it" answer isn't realistic or desirable.
 
-**[Canvas](https://github.com/quellabs/canvas)** - A PHP framework designed to integrate with legacy applications, providing modern architecture without requiring a full rewrite.
+## What I Build
 
-**[ObjectQuel](https://github.com/quellabs/objectquel)** - A readable ORM alternative using entity-based queries inspired by QUEL. Built on the Data Mapper pattern for clean separation of concerns.
+I maintain several open-source tools that reflect how I approach problems:
 
-**[WakaPAC](https://github.com/quellabs/wakapac)** - A JavaScript reactivity library focused on simplicity and developer experience.
+**[Canvas](https://github.com/quellabs/canvas)** - PHP framework for legacy integration. Lets you add modern architecture incrementally without torching your existing codebase.
 
-**[Discover](https://github.com/quellabs/discover)** - Automatic service provider discovery and organization across PHP applications and dependencies.
+**[ObjectQuel](https://github.com/quellabs/objectquel)** - ORM alternative using QUEL-inspired syntax. Data Mapper pattern, no magic methods, actually readable queries.
 
-**[Sculpt](https://github.com/quellabs/sculpt)** - A command line toolkit that is used across the entire ecosystem
+**[WakaPAC](https://github.com/quellabs/wakapac)** - JavaScript reactivity without the ceremony. Built because I was tired of frameworks that make simple things complicated.
 
-## Approach
+**[Discover](https://github.com/quellabs/discover)** - Automatic service provider discovery for PHP. Eliminates manual registration boilerplate.
 
-I build for maintainability and clarity. Most frameworks add layers of abstraction that obscure what's actually happening. My tools aim to be:
+**[Sculpt](https://github.com/quellabs/sculpt)** - CLI toolkit that powers the rest of the ecosystem.
 
-- **Readable** - Code should explain itself
-- **Practical** - Solving real problems over theoretical elegance  
-- **Rejection of magic** - Everything is traceable
-- **Legacy-friendly** - Modernization shouldn't require scorched earth
+## Philosophy
 
-## Tech Stack
+Most frameworks optimize for getting started quickly, then become obstacles. I build for what happens after month three:
 
-**Primary:** PHP, JavaScript  
-**Focus areas:** Legacy modernization, ORM design, framework architecture, CLI tooling
+- **Explicit over clever** - You shouldn't need to read framework source to understand your own code
+- **Incremental modernization** - Legacy systems have value; replacement isn't always the answer
+- **Rejection of magic** - If you can't trace how it works, you can't fix it when it breaks
 
-## Working Together
+## Quellabs Services
 
-I'm available for freelance work through **Quellabs**. Particularly interested in projects involving:
-- Legacy codebase modernization
-- Custom framework/tooling development
-- Technical architecture consulting
+Through Quellabs, I take on projects involving:
 
-📍 Based in Haarlem, Netherlands  
+- **Legacy modernization** - Adding structure to aging codebases without full rewrites
+- **Custom tooling** - Building frameworks/libraries specific to your problem domain  
+- **Architecture consulting** - Technical decision-making for long-term maintainability
+
+If you're stuck with a system that works but can't grow, or need someone who won't immediately suggest starting over, let's talk.
+
+📍 Haarlem, Netherlands  
 🌐 [canvasphp.com](https://www.canvasphp.com)  
 🐦 [@quellabs](https://x.com/quellabs)
