@@ -12,7 +12,7 @@ I maintain several open-source tools that reflect how I approach problems:
 
 **[ObjectQuel](https://github.com/quellabs/objectquel)** - ORM alternative using QUEL-inspired syntax. Data Mapper pattern, no magic methods, actually readable queries.
 
-**[WakaPAC](https://github.com/quellabs/wakapac)** - JavaScript reactivity without the ceremony. Built because I was tired of frameworks that make simple things complicated.
+**[WakaPAC](https://github.com/quellabs/wakapac)** - JavaScript reactivity without the ceremony. Inspired by KnockoutJS, React and Vue.
 
 **[Discover](https://github.com/quellabs/discover)** - Automatic service provider discovery for PHP. Eliminates manual registration boilerplate.
 
