@@ -14,10 +14,6 @@ I maintain several open-source tools that reflect how I approach problems:
 
 **[WakaPAC](https://github.com/quellabs/wakapac)** - JavaScript reactivity without the ceremony. Inspired by KnockoutJS, React and Vue.
 
-**[Discover](https://github.com/quellabs/discover)** - Automatic service provider discovery for PHP. Eliminates manual registration boilerplate.
-
-**[Sculpt](https://github.com/quellabs/sculpt)** - CLI toolkit that powers the rest of the ecosystem.
-
 ## Philosophy
 
 Most frameworks optimize for getting started quickly, then become obstacles. I build for what happens after month three:
@@ -31,7 +27,7 @@ Most frameworks optimize for getting started quickly, then become obstacles. I b
 Through Quellabs, I take on projects involving:
 
 - **Legacy modernization** - Adding structure to aging codebases without full rewrites
-- **Custom tooling** - Building frameworks/libraries specific to your problem domain  
+- **Custom tooling** - Building software specific to your problem domain
 - **Architecture consulting** - Technical decision-making for long-term maintainability
 
 If you're stuck with a system that works but can't grow, or need someone who won't immediately suggest starting over, let's talk.
