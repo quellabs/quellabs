@@ -6,11 +6,9 @@ I'm a freelance PHP and JavaScript developer specializing in legacy system moder
 
 ## What I Offer
 
-**Legacy Modernization** - Add modern architecture to existing systems while preserving business logic and institutional knowledge.
-
-**Custom Development** - Build tools and solutions tailored to your specific domain and constraints.
-
-**Technical Consulting** - Navigate architectural decisions with long-term maintainability in mind.
+- **Legacy Modernization** - Add modern architecture to existing systems while preserving business logic and institutional knowledge.
+- **Custom Development** - Build tools and solutions tailored to your specific domain and constraints.
+- **Technical Consulting** - Navigate architectural decisions with long-term maintainability in mind.
 
 ## Open Source Tools
 
