@@ -1,37 +1,37 @@
 # Hi, I'm Floris
 
-I'm a freelance developer working as **Quellabs**, specializing in PHP and JavaScript. I've spent nearly 20 years modernizing legacy systems and building tools that bring structure to unstructured codebases.
+I'm a freelance PHP and JavaScript developer specializing in legacy system modernization. For 25+ years, I've helped companies evolve their codebases without throwing away what works.
 
-**Available for contract work** — particularly projects where the "just rewrite it" answer isn't realistic or desirable.
+🟢 **Currently accepting new projects** — I work with teams who need to modernize incrementally, not rip and replace.
 
-## What I Build
+## What I Offer
 
-I maintain several open-source tools that reflect how I approach problems:
+**Legacy Modernization** - Add modern architecture to existing systems while preserving business logic and institutional knowledge.
 
-**[Canvas](https://github.com/quellabs/canvas)** - PHP framework for legacy integration. Lets you add modern architecture incrementally without torching your existing codebase.
+**Custom Development** - Build tools and solutions tailored to your specific domain and constraints.
 
-**[ObjectQuel](https://github.com/quellabs/objectquel)** - ORM alternative using QUEL-inspired syntax. Data Mapper pattern, no magic methods, actually readable queries.
+**Technical Consulting** - Navigate architectural decisions with long-term maintainability in mind.
 
-**[WakaPAC](https://github.com/quellabs/wakapac)** - JavaScript reactivity without the ceremony. Inspired by KnockoutJS, React and Vue.
+## Open Source Tools
 
-## Philosophy
+I build and maintain tools that reflect how I work:
 
-Most frameworks optimize for getting started quickly, then become obstacles. I build for what happens after month three:
+**[Canvas](https://github.com/quellabs/canvas)** - PHP framework designed for gradual modernization. Add structure incrementally without breaking production.
 
-- **Explicit over clever** - You shouldn't need to read framework source to understand your own code
-- **Incremental modernization** - Legacy systems have value; replacement isn't always the answer
-- **Rejection of magic** - If you can't trace how it works, you can't fix it when it breaks
+**[ObjectQuel](https://github.com/quellabs/objectquel)** - PHP ORM with explicit Data Mapper pattern and readable QUEL-inspired syntax.
 
-## Quellabs Services
+**[WakaPAC](https://github.com/quellabs/wakapac)** - Lightweight JavaScript reactivity library. KnockoutJS simplicity meets modern capabilities.
 
-Through Quellabs, I take on projects involving:
+## How I Work
 
-- **Legacy modernization** - Adding structure to aging codebases without full rewrites
-- **Custom tooling** - Building software specific to your problem domain
-- **Architecture consulting** - Technical decision-making for long-term maintainability
+- **Explicit over implicit** - Code should explain itself without framework documentation
+- **Incremental progress** - Small, testable changes beat big-bang rewrites
+- **Practical solutions** - Technical decisions based on your constraints, not industry trends
 
-If you're stuck with a system that works but can't grow, or need someone who won't immediately suggest starting over, let's talk.
+## Let's Talk
 
-📍 Haarlem, Netherlands  
-🌐 [canvasphp.com](https://www.canvasphp.com)  
-🐦 [@quellabs](https://x.com/quellabs)
+If you're working with a system that needs to evolve but can't stop for a rewrite, I can help.
+
+📧 Contact: [floris@quellabs.nl](mailto:floris@quellabs.nl)  
+🌐 Website: [canvasphp.com](https://www.canvasphp.com)  
+🐦 Twitter: [@quellabs](https://x.com/quellabs)
