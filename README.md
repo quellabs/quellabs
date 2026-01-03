@@ -31,5 +31,5 @@ I build and maintain tools that reflect how I work:
 If you're working with a system that needs to evolve but can't stop for a rewrite, I can help.
 
 📧 Contact: [floris@quellabs.com](mailto:floris@quellabs.com)  
-🌐 Website: [canvasphp.com](https://www.quellabs.com)
+🌐 Website: [quellabs.com](https://www.quellabs.com)
 🐦 X: [@quellabs](https://x.com/quellabs)
