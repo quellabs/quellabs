@@ -18,7 +18,7 @@ I build and maintain tools that reflect how I work:
 
 **[ObjectQuel](https://github.com/quellabs/objectquel)** - PHP ORM with explicit Data Mapper pattern and readable QUEL-inspired syntax.
 
-**[WakaPAC](https://github.com/quellabs/wakapac)** - A tiny reactive UI runtime with a desktop-style event pipeline.
+**[WakaPAC](https://github.com/quellabs/wakapac)** - A compact reactive UI runtime with a desktop-style event pipeline.
 
 ## How I Work
 
